@@ -31,6 +31,10 @@ body {
     cursor: pointer;
 }
 
+b{
+    color: white;
+}
+
 .box:hover {
     filter: grayscale(0);
 }
